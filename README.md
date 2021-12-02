@@ -72,3 +72,53 @@ sudo systemctl enable mongod
 sudo nano mongod.conf
 change bindIP to 0.0.0.0 (accessable to all (not secure)) or to desired IP e.g. appIP so only it can access it
 ```
+
+# Cloud Computing
+
+## What is cloud computing?
+- General term for anything that involves delivering hosted services over the internet. These services are divided into three main categories: infrastructure as a service (IaaS), platform as a service (PaaS) and software as a service (SaaS).
+- https://searchcloudcomputing.techtarget.com/definition/cloud-computing
+
+## Benefits of cloud computing?
+- Cost Savings
+- Security
+- Flexibility
+- Mobility
+- Insight
+- Increased Collaboration
+- Quality Control
+- Disaster Recovery
+- Loss Prevention
+- Automatic Software Updates
+- Competitive Edge
+- Sustainability
+- https://www.salesforce.com/products/platform/best-practices/benefits-of-cloud-computing/
+
+## Who is using cloud computing in their IT tech?
+- Netflix (using AWS)
+- Pinterest (using AWS)
+- Coca-cola  (using AWS)
+- Etsy (using Google Cloud)
+- eBay (using Google Cloud)
+- Twitter (ad platform) (using Google Cloud)
+- Paypal (using Google Cloud)
+- https://customerthink.com/top-10-companies-using-cloud-and-why/
+
+## What is IaaS, PaaS, SaaS?
+- IaaS: pay-as-you-go access to storage, networking, servers, and other computing resources in the cloud.
+- Paas: cloud-based environment in which users can build and deliver applications. The provider supplies underlying infrastructure.
+- SaaS: delivers software and applications through the internet. Users subscribe to the software and access it via the web or vendor APIs.
+- https://www.ibm.com/uk-en/cloud/learn/iaas-paas-saas
+
+## What is AWS?
+- Leading cloud platform
+- AWS (Amazon Web Services) is a comprehensive, evolving cloud computing platform provided by Amazon that includes a mixture of infrastructure as a service (IaaS), platform as a service (PaaS) and packaged software as a service (SaaS) offerings.
+
+## Key benefits of AWS?
+- Easy to use
+- Flexible
+- Cost-Effective
+- Reliable
+- Scalable and high-performance
+- Secure
+- https://aws.amazon.com/application-hosting/benefits/
